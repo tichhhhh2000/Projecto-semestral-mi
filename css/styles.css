@@ -1,0 +1,39 @@
+.btn-registrarse{
+    margin-left: 1250px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    border-radius: 50px;
+}
+
+.btn-carrito{
+    margin-left: 1095px;
+    margin-top: -38px;
+    border-radius: 50px;
+}
+
+
+.titulo{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.encabezado{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.tendencia-ul{
+    text-align: center;
+    margin-top: 25px;
+    text-transform: uppercase;
+    
+}
+
+.contactanos-footer{
+    margin-top: 55px;
+}
+
+
+
+
+
