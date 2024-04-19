@@ -34,11 +34,16 @@
 }
 
 .tamaño-imagen{
-    margin-left: 315px;
+    
     width: 50%;
     height: 50%;
 }
 
-
+.centrar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 
